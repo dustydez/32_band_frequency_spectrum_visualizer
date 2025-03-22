@@ -45,13 +45,6 @@ This project implements an **Audio Spectrum Visualizer** using an **Arduino Nano
 - The **full range sweep test** confirmed that frequencies up to **19 kHz** are accurately displayed.
 - The logarithmic scale mode **enhanced low-frequency visualization**, making it more perceptually accurate.
 
-## Future Work
-- **Noise Monitoring System:** Log environmental noise levels categorized by frequency.
-- **Audio Water Fountain:** Synchronize water jets with music using real-time signal processing.
-- **Musical Instrument Tuner:** Visualize and tune instruments by observing harmonic frequencies.
-- **Improved LED Display:** Upgrade to **RGB LED strips** for enhanced visual effects.
-- **Higher Sampling Rate:** Use **faster microcontrollers** (ESP32) to improve resolution and accuracy.
-
 ## Installation & Usage
 ### Prerequisites
 - **Arduino IDE** installed
